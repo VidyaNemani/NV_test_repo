@@ -1,0 +1,1 @@
+grant select on test_table to public;
